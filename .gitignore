@@ -1,0 +1,58 @@
+# =========================
+# Java / Spring Boot
+# =========================
+
+**/target/
+**/build/
+
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# Eclipse / STS / IntelliJ
+# =========================
+
+.metadata/
+
+**/.idea/
+**/*.iml
+**/*.classpath
+**/*.project
+**/.settings/
+**/.factorypath
+**/.springBeans
+**/.sts4-cache
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# Frontend
+# =========================
+
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
